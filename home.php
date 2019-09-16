@@ -124,7 +124,9 @@ and open the template in the editor.
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                          data-start="1500"
                          data-splitin="none"
-                         data-splitout="none">Ensemble batissons les villes de demain <br> Plus intéligentes , plus écologiques , plus sûres et en phase avec le digital.
+                         data-splitout="none">
+                        Nous travaillons constamment à la mise en œuvre de solutions innovantes <br>
+                        et performantes pour répondre aux attentes de nos partenaires.
                     </div>
 
                     <!-- Layer 3 -->
@@ -204,7 +206,7 @@ and open the template in the editor.
                         <p>Texte à insérer.</p>
                     </div>
                 </div>
-                
+
                 <div class="col-md-3 col-sm-6 col-12 mcd_style">
                     <div class="features-box-2">
                         <div class="features-box-2-icon">

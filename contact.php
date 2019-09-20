@@ -16,9 +16,9 @@
                 <div class="row">
                     <div class="col-md-9 col-12">
                         <ul class="top-bar-info">
-                            <li><i class="fas fa-phone"></i> Téléphone:  +1-23-456789</li>
-                            <li><i class="fas fa-map-marker-alt"></i>New York, NY Sheram 113</li>
-                            <li><i class="fa fa-envelope"></i>Email:  contact@skglogalinvestment.com</li>
+                            <li><i class="fas fa-phone"></i> (+33) 179621846</li>
+                            <li><i class="fas fa-map-marker-alt"></i>142 av. de Stalingrad, Colombes 92700 France</li>
+                            <li><i class="fa fa-envelope"></i>contact@skglogalinvestment.com</li>
                         </ul>
                     </div>
                     <div class="col-md-3 col-12">

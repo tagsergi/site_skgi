@@ -167,7 +167,6 @@ and open the template in the editor.
                 <small>NOS SERVICES</small>
                 <h2 class="semi-bold font-size-35">Services sur mesures</h2>
                 <div class="section-heading-line line-thin"></div>
-                <p>Texte à insérer.<br> Texte à insérer.</p>
             </div>
             <div class="row mt-30">
                 <div class="col-md-3 col-sm-6 col-12 mcd_style" >
@@ -176,7 +175,6 @@ and open the template in the editor.
                             <i class="icon-search-2"></i>
                         </div>
                         <h4>Services et conseils IT</h4>
-                        <p>Texte à insérer..</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-12 mcd_style">
@@ -185,7 +183,6 @@ and open the template in the editor.
                             <i class="icon-lamp"></i>
                         </div>
                         <h4>Mines et Energies</h4>
-                        <p>Texte à insérer.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-12 mcd_style">
@@ -194,7 +191,6 @@ and open the template in the editor.
                             <i class="icon-graph"></i>
                         </div>
                         <h4>Services financiers</h4>
-                        <p>Texte à insérer.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-12 mcd_style">
@@ -203,46 +199,9 @@ and open the template in the editor.
                             <i class="icon-planning"></i>
                         </div>
                         <h4>BTP</h4>
-                        <p>Texte à insérer.</p>
                     </div>
                 </div>
 
-                <div class="col-md-3 col-sm-6 col-12 mcd_style">
-                    <div class="features-box-2">
-                        <div class="features-box-2-icon">
-                            <i class="icon-truck"></i>
-                        </div>
-                        <h4>Location de matériels agricoles</h4>
-                        <p>Texte à insérer.</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-12 mcd_style">
-                    <div class="features-box-2">
-                        <div class="features-box-2-icon">
-                            <i class="icon-wallet"></i>
-                        </div>
-                        <h4>Activité 1 </h4>
-                        <p>Texte à insérer.</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-12 mcd_style">
-                    <div class="features-box-2">
-                        <div class="features-box-2-icon">
-                            <i class="icon-wallet"></i>
-                        </div>
-                        <h4>Activité 2</h4>
-                        <p>Texte à insérer.</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-12 mcd_style">
-                    <div class="features-box-2">
-                        <div class="features-box-2-icon">
-                            <i class="icon-wallet"></i>
-                        </div>
-                        <h4>Activité 3</h4>
-                        <p>Texte à insérer.</p>
-                    </div>
-                </div>
             </div>
             <div class="text-center mt-40">
                 <a href="#" class="button-grey-bordered button-md text-uppercase">Devenir un client</a>
@@ -255,7 +214,7 @@ and open the template in the editor.
     <div class="container-fluid pl-0 pr-0">
         <div class="row no-gutters">
             <div class="col-md-6 col-sm-12 col-12">
-                <div class="full-background min-350" style="background-image: url(SergePicturesResized/755x620/6.png);">
+                <div class="full-background min-350" style="background-image: url(img_skg/psk1.jpg);">
                 </div>
             </div>
             <div class="col-md-6 col-sm-12 col-12">
@@ -268,14 +227,12 @@ and open the template in the editor.
                             <div class="countup-box-2">
                                 <h3 class="countup">650</h3><span> +</span>
                                 <h4>Nos équipes</h4>
-                                <p>Texte à insérer.</p>
                             </div>
                         </div>
                         <div class="col-sm-5 col-12 offset-sm-1">
                             <div class="countup-box-2">
                                 <h3 class="countup">3800</h3><span> +</span>
                                 <h4>Clients satisfaits</h4>
-                                <p>Texte à insérer.</p>
                             </div>
                         </div>
                     </div>
@@ -296,7 +253,6 @@ and open the template in the editor.
                             <div class="section-heading-line line-thin"></div>
                         </div>
                         <div class="text-content-big mt-25">
-                            <p>Texte à insérer.</p>
                         </div>
                         <a href="#" class="button-simple mt-15">Ils nous ont fait confiance <i class="fa fa-arrow-right primary-color"></i></a>
                     </div>
@@ -323,7 +279,6 @@ and open the template in the editor.
             <div class="section-heading text-center">
                 <h3 class="semi-bold">10 ans d'expériences sur les marchés boursiers</h3>
                 <div class="section-heading-line line-thin"></div>
-                <p>Texte à insérer <br>Texte à insérer.</p>
             </div>
             <div class="row mt-40">
                 <div class="col-md-4 col-sm-12 col-12">
@@ -331,7 +286,6 @@ and open the template in the editor.
                         <img src="img_skg/rsz_bourse-debutant.jpg" alt="img">
                         <div class="service-block-2-content">
                             <h4><a href="#">Introduction en bourse</a></h4>
-                            <strong>Texte à insérer</strong>
                             <a href="#" class="service-block-2-btn">Voir plus <i class="fa fa-arrow-right primary-color"></i></a>
                         </div>
                     </div>
@@ -341,7 +295,6 @@ and open the template in the editor.
                         <img src="img_skg/rsz_top-rich-1450850278209.jpg" alt="img">
                         <div class="service-block-2-content">
                             <h4><a href="#">Levées de fonds</a></h4>
-                            <strong>texte à insérer</strong>
                             <a href="#" class="service-block-2-btn">Voir plus<i class="fa fa-arrow-right primary-color"></i></a>
                         </div>
                     </div>
@@ -351,14 +304,10 @@ and open the template in the editor.
                         <img src="img_skg/rsz_1bourse.jpg" alt="img">
                         <div class="service-block-2-content">
                             <h4><a href="#">Actions et obligations</a></h4>
-                            <strong>Texte à insérer</strong>
                             <a href="#" class="service-block-2-btn">Voir plus<i class="fa fa-arrow-right primary-color"></i></a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="text-center mt-30">
-                <a href="#" class="button-primary button-md">Voir tous les services</a>
             </div>
         </div>
     </div>

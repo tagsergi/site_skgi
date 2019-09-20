@@ -2161,6 +2161,34 @@ i) Forms
     padding: 120px 0px 120px 0px;
 }
 
+.breadcrumb-section-it{
+    position: relative;
+    background-image: url("../img_skg/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0px 120px 0px;
+}
+
+.breadcrumb-section-agriculture{
+    position: relative;
+    background-image: url("../img_skg/agriculture.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0px 120px 0px;
+}
+
+.breadcrumb-section-rse{
+    position: relative;
+    background-image: url("../img_skg/2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0px 120px 0px;
+}
+
+
 .breadcrumb-section h1 {
     position: relative;
     color: #fff;

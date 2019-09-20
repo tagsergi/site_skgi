@@ -50,7 +50,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-12">
-                        <img src="http://via.placeholder.com/570x340" class="rounded-border shadow-primary" alt="">
+                        <img src="img_skg/PSK4.jpg" class="rounded-border shadow-primary" alt="">
                     </div>
                     <div class="col-md-6 col-sm-6 col-12">
                         <div class="pl-30-md">
@@ -60,9 +60,9 @@
                                 <div class="text-content">
                                     <p>Fondé il y a une dizaine d’années, <i style="color: #222;font-size: 16px;font-weight: 600;">SK Global Investment Group</i> dirigé Par
                                         <i style="color: #222;font-size: 16px;font-weight: 600;">Stéphane KIPRE </i>, 
-                                    est un Groupe africain qui croit au fort potentiel économique de l’Afrique. Conscient que le développement 
-                                    de l’Afrique viendra essentiellement des Africains, le Groupe SK Global Investment est impliqué dans les finances, 
-                                    les mines, les travaux publics, l’immobilier et les technologies de l’information et de la communication. </p>
+                                        est un Groupe africain qui croit au fort potentiel économique de l’Afrique. Conscient que le développement 
+                                        de l’Afrique viendra essentiellement des Africains, le Groupe SK Global Investment est impliqué dans les finances, 
+                                        les mines, les travaux publics, l’immobilier et les technologies de l’information et de la communication. </p>
                                     <p>
                                         Aujourd’hui <i style="color: #222;font-size: 16px;font-weight: 600;">SK Global Investment Group</i> compte une dizaine de filiales, des partenaires techniques leaders mondiaux 
                                         dans leurs domaines, mais aussi un réseau bancaire fiable.
@@ -80,19 +80,10 @@
                                 <i class="icon-locked-combination-padlock-stroke"></i>
                             </div>
                             <div class="features-box-content">
-                                <h3>Customer Satisfaction Value</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="features-box">
-                            <div class="features-box-icon">
-                                <i class="icon-marketing"></i>
-                            </div>
-                            <div class="features-box-content">
-                                <h3>Inventory Management</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                <h3>Missions</h3>
+                                <p style="text-align: justify">Notre rôle est d’être un acteur de développement fiable au service de l’Afrique, en
+                                    accompagnant nos partenaires dans l’exécution de leurs plans de développement
+                                    tout en respectant les standards internationaux.</p>
                             </div>
                         </div>
                     </div>
@@ -102,104 +93,31 @@
                                 <i class="icon-chess"></i>
                             </div>
                             <div class="features-box-content">
-                                <h3>Business Consultancy</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                <h3>Gouvernance</h3>
+                                <p style="text-align: justify">Notre stratégie de développement repose essentiellement sur les compétences de
+                                    nos ressources humaines. (Voir Mme Keke pour organigramme)</p>
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-12">
+                        <div class="features-box">
+                            <div class="features-box-icon">
+                                <i class="icon-marketing"></i>
+                            </div>
+                            <div class="features-box-content">
+                                <h3>Implantations</h3>
+                                <p style="text-align: justify">SK Global Investment Group est implanté sur plusieurs continents notamment l’Asie,
+                                    l’Amérique, l’Europe et l’Afrique.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>
         <!--Info section END-->
 
-        <!--Testmonials START-->
-        <div class="section-block grey-bg background-shape-3">
-            <div class="container">
-                <div class="section-heading text-center">
-                    <h3 class="semi-bold font-size-33">Creative solutions, creative thoughts.</h3>
-                    <div class="section-heading-line line-thin"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt<br>ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                </div>
-                <div class="owl-carousel owl-theme testmonial-carousel-4 mt-20">
-                    <div class="testmonial-item-5">
-                        <div class="testmonial-item-5-img">
-                            <img src="http://via.placeholder.com/70x70" alt="img">
-                        </div>
-                        <div class="testmonial-item-5-name">
-                            <h4>Andrew Bright</h4>
-                            <span>Designer</span>
-                        </div>
-                        <div class="testmonial-item-5-text">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                        </div>
-                        <div class="stars">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                    </div>
-                    <div class="testmonial-item-5">
-                        <div class="testmonial-item-5-img">
-                            <img src="http://via.placeholder.com/70x70" alt="img">
-                        </div>
-                        <div class="testmonial-item-5-name">
-                            <h4>Andrew Bright</h4>
-                            <span>Designer</span>
-                        </div>
-                        <div class="testmonial-item-5-text">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                        </div>
-                        <div class="stars">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                    </div>
-                    <div class="testmonial-item-5">
-                        <div class="testmonial-item-5-img">
-                            <img src="http://via.placeholder.com/70x70" alt="img">
-                        </div>
-                        <div class="testmonial-item-5-name">
-                            <h4>Andrew Bright</h4>
-                            <span>Designer</span>
-                        </div>
-                        <div class="testmonial-item-5-text">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                        </div>
-                        <div class="stars">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                    </div>
-                    <div class="testmonial-item-5">
-                        <div class="testmonial-item-5-img">
-                            <img src="http://via.placeholder.com/70x70" alt="img">
-                        </div>
-                        <div class="testmonial-item-5-name">
-                            <h4>Andrew Bright</h4>
-                            <span>Designer</span>
-                        </div>
-                        <div class="testmonial-item-5-text">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                        </div>
-                        <div class="stars">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <!-- Testmonial-item END -->
 
         <!-- Parallax Section START -->

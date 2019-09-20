@@ -82,25 +82,13 @@
                                 <li><a href="#">SOMEC</a></li>
                             </ul>-->
                         </li>
-                        <li><a href="#">conseils IT</a>
-                            <ul class="nav-dropdown">
-                                <li><a href="#">Afrique Digital</a></li>
-                            </ul>
+                        <li><a href="it.php">conseils IT</a>
                         </li>
-                        <li><a href="#">Agriculture</a>
-                             <ul class="nav-dropdown">
-                                <li><a href="#">Invest Congo</a></li>
-                            </ul>
+                        <li><a href="agriculture.php">Agriculture</a>
                         </li>
                     </ul>
                 </li>
-                <li><a href="#">Engagements RSE</a>
-                    <ul class="nav-dropdown">
-                        <li><a href="#">RSE : notre approche</a>
-                        </li>
-                        <li><a href="#">Les collaborateurs</a></li>
-                        <li><a href="#">La société civile</a></li>
-                    </ul>
+                <li><a href="rse.php">Engagements RSE</a>
                 </li>
                 <li><a href="#">Carrières</a>
 <!--                    <ul class="nav-dropdown">

@@ -16,9 +16,9 @@
                 <div class="row">
                     <div class="col-md-9 col-12">
                         <ul class="top-bar-info">
-                            <li><i class="fas fa-phone"></i> Téléphone:  +1-23-456789</li>
-                            <li><i class="fas fa-map-marker-alt"></i>New York, NY Sheram 113</li>
-                            <li><i class="fa fa-envelope"></i>Email:  contact@skglogalinvestment.com</li>
+                            <li><i class="fas fa-phone"></i> (+33) 179621846</li>
+                            <li><i class="fas fa-map-marker-alt"></i>142 av. de Stalingrad, Colombes 92700 France</li>
+                            <li><i class="fa fa-envelope"></i>contact@skglogalinvestment.com</li>
                         </ul>
                     </div>
                     <div class="col-md-3 col-12">
@@ -48,20 +48,19 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-7 col-sm-7 col-12">
-                        <img src="./img_skg/btp.jpg" class="rounded-border" alt="">
+                        <img src="./img_skg/mine1.jpg" class="rounded-border" alt="">
                     </div>
                     <div class="col-md-5 col-sm-5 col-12">
                         <div class="pl-30-md">
                             <div class="section-heading mt-15">
                                 <div class="icon-holder-md">
-                                    <img src="./img_skg/sctp.jpeg" height="100" width="100">
+                                    <img src="./img_skg/somec.jpeg" height="100" width="100">
                                 </div>
-                                <h4 class="semi-bold mt-30" style="color: #007bff">SCTP</h4>
-                                <p>La Société Centrafricaine de Travaux Publics (SCTP) grâce à
-                                    son savoir-faire diversifié et compétitif accompagne le gouvernement centrafricain
-                                    dans la construction de grandes infrastructures dans tous les secteurs du bâtiment et
-                                    des travaux publics. Les techniques évoluent, mais notre volonté de construire dans
-                                    le respect des délais, des coûts et de l’environnement reste toujours engagée..</p>
+                                <h4 class="semi-bold mt-30" style="color: #007bff">SOMEC</h4>
+                                <p>Présentation SOMEC : Société des Mines et de l’Énergie du Congo comme son
+                                    nom l’indique est une société minière installée au Congo Kinshasa. La SOMEC
+                                    propose une exploitation durable et responsable pour l’industrie minière congolaise
+                                    tout en respectant l’environnement et cela dans plusieurs provinces du pays.</p>
                             </div>
                         </div>
                     </div>

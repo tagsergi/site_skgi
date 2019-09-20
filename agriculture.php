@@ -1,4 +1,3 @@
-
 <html lang="zxx">
 
     <?php
@@ -36,9 +35,9 @@
         <?php
         include("menu.php");
         ?> 
-        <div class="breadcrumb-section-btp jarallax pixels-bg" data-jarallax data-speed="0.6">
+        <div class="breadcrumb-section-agriculture jarallax pixels-bg" data-jarallax data-speed="0.6">
             <div class="container text-center">
-                <h1 style="color: white">BTP</h1>
+                <h1 style="color: white">AGRICULTURE / IMPORT-EXPORT</h1>
             </div>
         </div>
         <!--Breadcrumb END-->
@@ -48,20 +47,22 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-7 col-sm-7 col-12">
-                        <img src="./img_skg/btp.jpg" class="rounded-border" alt="">
+                        <img src="./img_skg/INVEST.jpg" class="rounded-border" alt="">
                     </div>
                     <div class="col-md-5 col-sm-5 col-12">
                         <div class="pl-30-md">
                             <div class="section-heading mt-15">
                                 <div class="icon-holder-md">
-                                    <img src="./img_skg/sctp.jpeg" height="100" width="100">
+                                    <img src="./img_skg/invest_congo.jpeg" height="100" width="100">
                                 </div>
-                                <h4 class="semi-bold mt-30" style="color: #007bff">SCTP</h4>
-                                <p>La Société Centrafricaine de Travaux Publics (SCTP) grâce à
-                                    son savoir-faire diversifié et compétitif accompagne le gouvernement centrafricain
-                                    dans la construction de grandes infrastructures dans tous les secteurs du bâtiment et
-                                    des travaux publics. Les techniques évoluent, mais notre volonté de construire dans
-                                    le respect des délais, des coûts et de l’environnement reste toujours engagée..</p>
+                                <h4 class="semi-bold mt-30" style="color: #007bff">INVEST CONGO</h4>
+                                <p>Les défis dans le domaine agricoles sont immenses
+                                    au Congo. La pénurie fréquente de la farine de maïs, principal aliment dans cette
+                                    région de l’Afrique reste un problème pour les populations. <i style="color: #222;font-size: 16px;font-weight: 600;">Invest Congo</i> participe à
+                                    le résorber par la culture de plusieurs hectares de maïs et par l’installation d’unités
+                                    de transformation afin de maintenir un coût responsable pour les populations tout en
+                                    maintenant une excellente qualité. <i style="color: #222;font-size: 16px;font-weight: 600;">Invest Congo</i> est aussi présent dans le domaine
+                                    de l’Import-Export.</p>
                             </div>
                         </div>
                     </div>

@@ -2143,6 +2143,24 @@ i) Forms
     padding: 120px 0px 120px 0px;
 }
 
+.breadcrumb-section-btp{
+    position: relative;
+    background-image: url("../SergePicturesResized/1500x630/opacity/13.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0px 120px 0px;
+}
+
+.breadcrumb-section-mines{
+    position: relative;
+    background-image: url("../img_skg/Pétrole-–-Mines-Energie-1500x630.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0px 120px 0px;
+}
+
 .breadcrumb-section h1 {
     position: relative;
     color: #fff;

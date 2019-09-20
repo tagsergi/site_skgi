@@ -75,15 +75,12 @@
                                 <li><a href="#">Prince Capital</a></li>
                             </ul>-->
                         </li>
-                        <li><a href="#">BTP</a>
-                            <ul class="nav-dropdown">
-                                <li><a href="#">SCTP</a></li>
-                            </ul>
+                        <li><a href="btp.php">BTP</a>
                         </li>
-                        <li><a href="#">Mines et energies</a>
-                            <ul class="nav-dropdown">
+                        <li><a href="mines.php">Mines et energies</a>
+<!--                            <ul class="nav-dropdown">
                                 <li><a href="#">SOMEC</a></li>
-                            </ul>
+                            </ul>-->
                         </li>
                         <li><a href="#">conseils IT</a>
                             <ul class="nav-dropdown">

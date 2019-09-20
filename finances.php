@@ -50,18 +50,17 @@
     <div class="container">
         <div class="row">
             <div class="col-md-7 col-sm-7 col-12">
-                <img src="http://via.placeholder.com/670x440" class="rounded-border" alt="">
+                <img src="./img_skg/desai-finance_1280x720.jpg" class="rounded-border" alt="">
             </div>
             <div class="col-md-5 col-sm-5 col-12">
                 <div class="pl-30-md">
                     <div class="section-heading mt-15">
                         <div class="icon-holder-md">
-                            <i class="icon-note-with-list-square-outlined-interface-symbol"></i>
+                            <img src="./img_skg/sk_usa.jpeg" height="100" width="100">
                         </div>
-                        <h4 class="semi-bold mt-30"><a href="#">Accurate data for precision marketing</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h4 class="semi-bold mt-30" style="color: #007bff">SK Global USA</h4>
+                        <p>Implantée depuis des années aux USA, SK Global USA permet un investissement dans des actions en suivant les indices boursiers.</p>
                     </div>
-                    <a href="#" class="button-md button-grey mt-20">Learn More</a>
                 </div>
             </div>
         </div>
@@ -71,41 +70,23 @@
                 <div class="pr-30-md">
                     <div class="section-heading mt-15">
                         <div class="icon-holder-md">
-                            <i class="icon-unlocked-padlock-outlined-symbol"></i>
+                            <img src="./img_skg/fin_trading.jpeg" height="100" width="100">
                         </div>
-                        <h4 class="semi-bold mt-30"><a href="#">Tailored marketing solutions for your business</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h4 class="semi-bold mt-30" style="color: #007bff">JYL</h4>
+                        <p>Facilite les investissements dans des titres, des obligations, des actions et de profiter des bénéfices.</p>
                     </div>
-                    <a href="#" class="button-md button-grey mt-20">Learn More</a>
                 </div>
             </div>
             <div class="col-md-7 col-sm-7 col-12">
-                <img src="http://via.placeholder.com/670x440" class="rounded-border" alt="">
+                <img src="./img_skg/bourse-debutant.jpg" class="rounded-border" alt="">
             </div>
         </div>
 
-        <div class="row mt-70">
-            <div class="col-md-7 col-sm-7 col-12">
-                <img src="http://via.placeholder.com/670x440" class="rounded-border" alt="">
-            </div>
-            <div class="col-md-5 col-sm-5 col-12">
-                <div class="pl-30-md">
-                    <div class="section-heading mt-15">
-                        <div class="icon-holder-md">
-                            <i class="icon-tag-with-cord-outlined-interface-symbol"></i>
-                        </div>
-                        <h4 class="semi-bold mt-30"><a href="#">Measurable marketing. Maximising results.</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    </div>
-                    <a href="#" class="button-md button-grey mt-20">Learn More</a>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 <!--Services Section END-->
 
-<!-- Clients Carousel START -->
+<!-- Clients Carousel START 
 <div class="section-block section-sm grey-bg">
     <div class="container">
         <div class="owl-carousel owl-theme clients clients-carousel">
@@ -136,7 +117,7 @@
     </div>
 </div>
 
-<!-- Clients Carousel END -->
+<!Clients Carousel END -->
         
     </body>
     <?php

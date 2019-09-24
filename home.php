@@ -77,7 +77,7 @@ and open the template in the editor.
                          data-paddingright="[0,0,0,0]"
                          data-paddingbottom="[0,0,0,0]"
                          data-paddingleft="[0,0,0,0]"
-                         style="">En savoir plus
+                         style="">
                     </div>
                 </li>
 
@@ -152,7 +152,7 @@ and open the template in the editor.
                          data-paddingright="[0,0,0,0]"
                          data-paddingbottom="[0,0,0,0]"
                          data-paddingleft="[0,0,0,0]"
-                         style="">Learn More
+                         style="">
                     </div>
                 </li>
             </ul>

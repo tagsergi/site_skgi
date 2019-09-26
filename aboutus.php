@@ -137,21 +137,21 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6 col-12">
                         <div class="section-heading text-left mt-15">
-                            <small class="uppercase">Gain a Success With Us!</small>
-                            <h4 class="semi-bold">Our Creative Experts</h4>
+                            <small class="uppercase">Réussissez avec nous!</small>
+                            <h4 class="semi-bold">Nos Experts</h4>
                         </div>
                         <div class="text-content mt-15">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>un personnel multidisciplinaire jeune, expérimenté, issu de différentes nationalités et extrêmement qualifié, formé dans les meilleures écoles en Amérique, en Europe en Asie et en Afrique.</p>
                         </div>
-                        <a href="#" class="button-sm button-primary-bordered mt-20">Read More</a>
+<!--                        <a href="#" class="button-sm button-primary-bordered mt-20">Read More</a>-->
                     </div>
 
                     <div class="col-md-3 col-sm-6 col-12">
                         <div class="team-box-2">
-                            <img src="http://via.placeholder.com/270x350" alt="">
+                            <img src="./img_skg/Charlotte Kalala Responsable RSE.jpg" alt="">
                             <div class="team-box-2-info">
-                                <h4>Jeck Austen</h4>
-                                <h6>Designer</h6>
+                                <h4>Charlotte KALALA</h4>
+                                <h6>Responsable RSE</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -164,10 +164,10 @@
 
                     <div class="col-md-3 col-sm-6 col-12">
                         <div class="team-box-2">
-                            <img src="http://via.placeholder.com/270x350" alt="">
+                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
                             <div class="team-box-2-info">
-                                <h4>Jeck Austen</h4>
-                                <h6>Designer</h6>
+                                <h4>Prince DALLI</h4>
+                                <h6>Directeurs des marchés financiers</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -180,10 +180,10 @@
 
                     <div class="col-md-3 col-sm-6 col-12">
                         <div class="team-box-2">
-                            <img src="http://via.placeholder.com/270x350" alt="">
+                            <img src="./img_skg/rsz_1img_0550.jpg"alt="">
                             <div class="team-box-2-info">
-                                <h4>Jeck Austen</h4>
-                                <h6>Designer</h6>
+                                <h4>Florence LEBOEHI</h4>
+                                <h6>Directrice Business Development</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>

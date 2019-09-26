@@ -312,6 +312,30 @@ and open the template in the editor.
         </div>
     </div>
     <!--Services END-->
+     <div class="section-block grey-bg background-shape-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5 col-sm-5 col-12">
+                        <div class="section-heading">
+                            <small class="uppercase">Who we are</small>
+                            <h4 class="semi-bold">We're knowledgeable about making benefits higher</h4>
+                        </div>
+                        <div class="text-content mt-15">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa</p>
+                        </div>
+                        <ul class="primary-list mt-20">
+                            <li><i class="fas fa-check-circle"></i>Solving problems, building brands.</li>
+                            <li><i class="fas fa-check-circle"></i>Building brands with purpose and passion.</li>
+                            <li><i class="fas fa-check-circle"></i>Connecting customers to your brand.</li>
+                        </ul>
+                        <a href="#" class="button-md button-primary mt-30">Read More</a>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-12 offset-md-1">
+                        <img src="http://via.placeholder.com/570x400" class="position-relative extra-rounded-border shadow-primary z-index-9 mt-30-xs" alt="img">
+                    </div>
+                </div>
+            </div>
+        </div>
 
     <!--Testmonials START-->
     <div class="section-block-grey background-center jarallax" data-jarallax data-speed="0.6" style="background-image: url('img_skg/bg_white.jpg')">

@@ -2170,6 +2170,15 @@ i) Forms
     padding: 120px 0px 120px 0px;
 }
 
+.breadcrumb-section-news{
+    position: relative;
+    background-image: url("../img_skg/banner_add_news.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0px 120px 0px;
+}
+
 .breadcrumb-section-agriculture{
     position: relative;
     background-image: url("../img_skg/agriculture.jpg");

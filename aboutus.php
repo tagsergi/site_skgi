@@ -111,7 +111,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </div>
@@ -131,20 +131,129 @@
         </div>
         <!-- Parallax Section END -->
 
+        <div class="section-block grey-bg background-shape-3">
+            <div class="container">
+                <div class="section-heading text-center">
+                    <h3 class="semi-bold font-size-33">Une équipe d'expert .</h3>
+                    <div class="section-heading-line line-thin"></div>
+                    <p>un personnel multidisciplinaire jeune, expérimenté, issu de différentes nationalités et extrêmement qualifié, formé dans les meilleures écoles en Amérique, en Europe en Asie et en Afrique</p>
+                </div>
+                <div class="owl-carousel owl-theme testmonial-carousel-4 mt-20">
+                    <div class="testmonial-item-5">
+                        <div class="team-box-2">
+                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <div class="team-box-2-info">
+                                <h4>Prince DALLI</h4>
+                                <h6>Directeurs des marchés financiers</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testmonial-item-5">
+                        <div class="team-box-2">
+                            <img src="./img_skg/Charlotte Kalala Responsable RSE.jpg" alt="">
+                            <div class="team-box-2-info">
+                                <h4>Charlotte KALALA</h4>
+                                <h6>Responsable RSE</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testmonial-item-5">
+                        <div class="team-box-2">
+                            <img src="./img_skg/rsz_1img_0550.jpg"alt="">
+                            <div class="team-box-2-info">
+                                <h4>Florence LEBOEHI</h4>
+                                <h6>Directrice Business Development</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testmonial-item-5">
+                        <div class="team-box-2">
+                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <div class="team-box-2-info">
+                                <h4>Prince DALLI</h4>
+                                <h6>Directeurs des marchés financiers</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testmonial-item-5">
+                        <div class="team-box-2">
+                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <div class="team-box-2-info">
+                                <h4>Prince DALLI</h4>
+                                <h6>Directeurs des marchés financiers</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testmonial-item-5">
+                        <div class="team-box-2">
+                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <div class="team-box-2-info">
+                                <h4>Prince DALLI</h4>
+                                <h6>Directeurs des marchés financiers</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testmonial-item-5">
+                        <div class="team-box-2">
+                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <div class="team-box-2-info">
+                                <h4>Prince DALLI</h4>
+                                <h6>Directeurs des marchés financiers</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
         <!--Team Section START-->
-        <div class="section-block">
+<!--        <div class="section-block">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-sm-6 col-12">
-                        <div class="section-heading text-left mt-15">
-                            <small class="uppercase">Réussissez avec nous!</small>
-                            <h4 class="semi-bold">Nos Experts</h4>
-                        </div>
-                        <div class="text-content mt-15">
-                            <p>un personnel multidisciplinaire jeune, expérimenté, issu de différentes nationalités et extrêmement qualifié, formé dans les meilleures écoles en Amérique, en Europe en Asie et en Afrique.</p>
-                        </div>
-<!--                        <a href="#" class="button-sm button-primary-bordered mt-20">Read More</a>-->
-                    </div>
+
 
                     <div class="col-md-3 col-sm-6 col-12">
                         <div class="team-box-2">
@@ -161,6 +270,22 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-3 col-sm-6 col-12">
+                        <div class="team-box-2">
+                            <img src="./img_skg/Charlotte Kalala Responsable RSE.jpg" alt="">
+                            <div class="team-box-2-info">
+                                <h4>Charlotte KALALA</h4>
+                                <h6>Responsable RSE</h6>
+                                <ul class="team-box-2-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
 
                     <div class="col-md-3 col-sm-6 col-12">
                         <div class="team-box-2">
@@ -195,7 +320,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>-->
         <!--Team Section END-->
 
         <!-- Clients Carousel START -->

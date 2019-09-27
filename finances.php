@@ -70,7 +70,7 @@
                 <div class="pr-30-md">
                     <div class="section-heading mt-15">
                         <div class="icon-holder-md">
-                            <img src="./img_skg/fin_trading.jpeg" height="100" width="100">
+                            <img src="./img_skg/JYL NEW 1.jpg" height="100" width="100">
                         </div>
                         <h4 class="semi-bold mt-30" style="color: #007bff">JYL</h4>
                         <p>Facilite les investissements dans des titres, des obligations, des actions et de profiter des bénéfices.</p>
@@ -79,6 +79,25 @@
             </div>
             <div class="col-md-7 col-sm-7 col-12">
                 <img src="./img_skg/bourse-debutant.jpg" class="rounded-border" alt="">
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="row">
+            <div class="col-md-7 col-sm-7 col-12">
+                <img src="./img_skg/analyse.jpg" class="rounded-border" alt="">
+            </div>
+            <div class="col-md-5 col-sm-5 col-12">
+                <div class="pl-30-md">
+                    <div class="section-heading mt-15">
+                        <div class="icon-holder-md">
+                            <img src="./img_skg/PC NEW1.jpg" height="100" width="100">
+                        </div>
+                        <h4 class="semi-bold mt-30" style="color: #007bff">PRINCE CAPITAL</h4>
+                        <p>La Société Prince Capital est une société de droit Anglais qui a pour objet le conseil en investissements financiers. Elle est intervenue jusque-là en Asie et en Europe.</p>
+                    </div>
+                </div>
             </div>
         </div>
 

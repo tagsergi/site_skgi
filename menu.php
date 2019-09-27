@@ -10,8 +10,8 @@
     <nav id="navigation4" class="container navigation">
         <div class="nav-header">
             <a class="nav-brand" href="index.php">
-                <img src="img_skg/rsz_whatsapp_image_2019-08-27_at_214740.jpg" alt="logo"  class="main-logo" id="light_logo"/>
-                <img src="img_skg/rsz_whatsapp_image_2019-08-27_at_214740.jpg" alt="logo" class="main-logo" id="main_logo">
+                <img src="img_skg/rsz_1rsz_logo_sk.jpg" alt="logo"  class="main-logo" id="light_logo"/>
+                <img src="img_skg/rsz_1rsz_logo_sk.jpg" alt="logo" class="main-logo" id="main_logo">
             </a>
             <div class="nav-toggle"></div>
         </div>
@@ -103,7 +103,7 @@
                         <li><a href="shop-cart.html">Shop Cart</a></li>
                     </ul>-->
                 </li>
-                <li><a href="#">Actualités</a>
+                <li><a href="actualites.php">Actualités</a>
 <!--                    <ul class="nav-dropdown">
                         <li><a href="#">Portfolio Boxed Style I</a>
                             <ul class="nav-dropdown">

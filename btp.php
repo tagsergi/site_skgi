@@ -57,15 +57,34 @@
                                     <img src="./img_skg/sctp.jpeg" height="100" width="100">
                                 </div>
                                 <h4 class="semi-bold mt-30" style="color: #007bff">SCTP</h4>
-                                <p>La Société Centrafricaine de Travaux Publics (SCTP) grâce à
-                                    son savoir-faire diversifié et compétitif accompagne le gouvernement centrafricain
-                                    dans la construction de grandes infrastructures dans tous les secteurs du bâtiment et
-                                    des travaux publics. Les techniques évoluent, mais notre volonté de construire dans
-                                    le respect des délais, des coûts et de l’environnement reste toujours engagée..</p>
+                                <p>La Société Centrafricaine de Travaux Publics (SCTP) grâce à son savoir-faire diversifié et compétitif accompagne
+                                    le gouvernement centrafricain et plusieurs operateurs privés dans la construction d’infrastructures dans tous les
+                                    secteurs du bâtiment et des travaux publics. Elle développe à travers ses bureaux d’études partenaires plusieurs 
+                                    projets d’infrastructures.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+                
+                  <div class="row reverse-xs mt-70">
+            <div class="col-md-5 col-sm-5 col-12">
+                <div class="pr-30-md">
+                    <div class="section-heading mt-15">
+                        <div class="icon-holder-md">
+                            <img src="./img_skg/SCI FIRST CAPITAL VRAI.png" height="100" width="100">
+                        </div>
+                        <h4 class="semi-bold mt-30" style="color: #007bff">SCI FIRST CAPITAL</h4>
+                        <p>Présente en Afrique de l’ouest, elle est une société de construction et de développement de projets immobiliers en Afrique
+                            de l’ouest. Elle pilote tous ses projets, c’est-à-dire, à compter de l’étude jusqu’à la construction en passant par la 
+                            recherche de financements.</p>
+              
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-7 col-sm-7 col-12">
+                <img src="./img_skg/SCI.jpg" class="rounded-border" alt="">
+            </div>
+        </div>
 
             </div>
         </div>

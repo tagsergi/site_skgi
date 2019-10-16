@@ -56,13 +56,12 @@
                                     <img src="./img_skg/invest_congo.jpeg" height="100" width="100">
                                 </div>
                                 <h4 class="semi-bold mt-30" style="color: #007bff">INVEST CONGO</h4>
-                                <p>Les défis dans le domaine agricoles sont immenses
-                                    au Congo. La pénurie fréquente de la farine de maïs, principal aliment dans cette
-                                    région de l’Afrique reste un problème pour les populations. <i style="color: #222;font-size: 16px;font-weight: 600;">Invest Congo</i> participe à
-                                    le résorber par la culture de plusieurs hectares de maïs et par l’installation d’unités
-                                    de transformation afin de maintenir un coût responsable pour les populations tout en
-                                    maintenant une excellente qualité. <i style="color: #222;font-size: 16px;font-weight: 600;">Invest Congo</i> est aussi présent dans le domaine
-                                    de l’Import-Export.</p>
+                                <p>Les défis dans le domaine agricole sont immenses au Congo. 
+                                    Notre filiale participe à relever ces défis par le développement de plusieurs projets agricoles.  
+                                    Invest Congo participe à l’autosuffisance alimentaire par la culture de plusieurs hectares de maïs 
+                                    et par l’installation d’unités de transformation afin de maintenir un coût responsable pour les populations 
+                                    tout en maintenant une excellente qualité. Invest Congo est aussi présent dans le domaine de l’Import-Export 
+                                    de tout produit agro-alimentaire.</p>
                             </div>
                         </div>
                     </div>

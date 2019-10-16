@@ -54,7 +54,7 @@
                         <div class="pl-30-md">
                             <div class="section-heading mt-15">
                                 <div class="icon-holder-md">
-                                    <img src="./img_skg/somec.jpeg" height="100" width="100">
+                                    <img src="./img_skg/LOGO SOMEC DEFINITIF.jpg" height="100" width="100">
                                 </div>
                                 <h4 class="semi-bold mt-30" style="color: #007bff">SOMEC</h4>
                                 <p>Présentation SOMEC : Société des Mines et de l’Énergie du Congo comme son

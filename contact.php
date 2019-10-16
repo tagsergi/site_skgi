@@ -54,11 +54,11 @@
                         <div class="contact-box-place-office">
                             <i class="icon-office-building"></i>
                             <h4>Bureau de France</h4>
-                            <h6>Str. Charenc France / 109</h6>
+                            <h6>                            142 avenue de Stalingrad, 92700 Colombes</h6>
                             <ul>
                                 <li><i class="fas fa-envelope-open"></i>contact_fr@skglogalinvestment.com</li>
-                                <li><i class="fas fa-phone"></i>(+33) 123-456-789</li>
-                                <li><i class="fas fa-fax"></i>(+33) 456-789</li>
+                                <li><i class="fas fa-phone"></i>(+33) 1 79 00 00 00</li>
+                                <li><i class="fas fa-fax"></i></li>
                             </ul>
                         </div>
                     </div>
@@ -67,11 +67,11 @@
                         <div class="contact-box-place-office">
                             <i class="icon-bank"></i>
                             <h4>Bureau du Congo</h4>
-                            <h6>Boulevard Lumumba, Kananga</h6>
+                            <h6>7347 Immeuble Claude Maluma suite 4 Av Kabasele Tshiamla Ex-Flambeau C/ Gombe, V/ Kinshasa, P/ Kinshasa à Kinshasa/ Gombe</h6>
                             <ul>
                                 <li><i class="fas fa-envelope-open"></i>contact_cd@skglogalinvestment.com</li>
-                                <li><i class="fas fa-phone"></i>(+242) 987-654-321</li>
-                                <li><i class="fas fa-fax"></i>(+242) 123-456</li>
+                                <li><i class="fas fa-phone"></i>(+242) 89 79 86 562</li>
+                                <li><i class="fas fa-fax"></i></li>
                             </ul>
                         </div>
                     </div>
@@ -79,12 +79,12 @@
                     <div class="col-md-4 col-sm-12 col-12">
                         <div class="contact-box-place-office">
                             <i class="icon-store"></i>
-                            <h4>Bureau de New York</h4>
-                            <h6>Str. Sheram USA / 113</h6>
+                            <h4>Bureau de Angleterre</h4>
+                            <h6>2 Farnham Court, Great Holm, Milton Keynes- United Kingdom</h6>
                             <ul>
-                                <li><i class="fas fa-envelope-open"></i>contact_us@skglogalinvestment.com</li>
-                                <li><i class="fas fa-phone"></i>(+1) 987-654-321</li>
-                                <li><i class="fas fa-fax"></i>(+1) 123-456</li>
+                                <li><i class="fas fa-envelope-open"></i>contact_gb@skglogalinvestment.com</li>
+                                <li><i class="fas fa-phone"></i>+4915783076871</li>
+                                <li><i class="fas fa-fax"></i></li>
                             </ul>
                         </div>
                     </div>
@@ -144,27 +144,27 @@
             <div class="container">
                 <div class="owl-carousel owl-theme clients clients-carousel">
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/LLOYDS.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/WELLS FARGO.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/LOGO HSBC.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/BOA.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/NY STOCK EXCHANGE.jpg" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/EQUITY BANK LOGO.png" alt="partner-image">
                     </div>
                 </div>
             </div>

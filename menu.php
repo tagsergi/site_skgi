@@ -77,12 +77,12 @@
                         </li>
                         <li><a href="btp.php">BTP</a>
                         </li>
-                        <li><a href="mines.php">Mines et energies</a>
+                        <li><a href="mines.php">Mines</a>
 <!--                            <ul class="nav-dropdown">
                                 <li><a href="#">SOMEC</a></li>
                             </ul>-->
                         </li>
-                        <li><a href="it.php">conseils IT</a>
+                        <li><a href="it.php">Communication et Services IT</a>
                         </li>
                         <li><a href="agriculture.php">Agriculture</a>
                         </li>

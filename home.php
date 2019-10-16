@@ -165,10 +165,35 @@ and open the template in the editor.
         <div class="container">
             <div class="section-heading text-center">
                 <small>NOS SERVICES</small>
-                <h2 class="semi-bold font-size-35">Services sur mesures</h2>
+                <h2 class="semi-bold font-size-35">Nos domaines de compétences</h2>
                 <div class="section-heading-line line-thin"></div>
             </div>
             <div class="row mt-30">
+                 <div class="col-md-3 col-sm-6 col-12 mcd_style">
+                    <div class="features-box-2">
+                        <div class="features-box-2-icon">
+                            <i class="icon-graph"></i>
+                        </div>
+                        <h4>Finance</h4>
+                    </div>
+                </div>
+                 <div class="col-md-3 col-sm-6 col-12 mcd_style">
+                    <div class="features-box-2">
+                        <div class="features-box-2-icon">
+                            <i class="icon-lamp"></i>
+                        </div>
+                        <h4>Mines</h4>
+                    </div>
+                </div>
+               
+                <div class="col-md-3 col-sm-6 col-12 mcd_style">
+                    <div class="features-box-2">
+                        <div class="features-box-2-icon">
+                            <i class="icon-planning"></i>
+                        </div>
+                        <h4>BTP et projets Immobiliers</h4>
+                    </div>
+                </div>
                 <div class="col-md-3 col-sm-6 col-12 mcd_style" >
                     <div class="features-box-2">
                         <div class="features-box-2-icon">
@@ -177,34 +202,11 @@ and open the template in the editor.
                         <h4>Services et conseils IT</h4>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-12 mcd_style">
-                    <div class="features-box-2">
-                        <div class="features-box-2-icon">
-                            <i class="icon-lamp"></i>
-                        </div>
-                        <h4>Mines et Energies</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-12 mcd_style">
-                    <div class="features-box-2">
-                        <div class="features-box-2-icon">
-                            <i class="icon-graph"></i>
-                        </div>
-                        <h4>Services financiers</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-12 mcd_style">
-                    <div class="features-box-2">
-                        <div class="features-box-2-icon">
-                            <i class="icon-planning"></i>
-                        </div>
-                        <h4>BTP</h4>
-                    </div>
-                </div>
+               
 
             </div>
             <div class="text-center mt-40">
-                <a href="#" class="button-grey-bordered button-md text-uppercase">Devenir un client</a>
+                <a href="contact.php" class="button-grey-bordered button-md text-uppercase">Devenir un client</a>
             </div>
         </div>
     </div>
@@ -225,14 +227,14 @@ and open the template in the editor.
                     <div class="row mt-45">
                         <div class="col-sm-5 col-12">
                             <div class="countup-box-2">
-                                <h3 class="countup">650</h3><span> +</span>
+                                <h3 class="countup">150</h3><span> +</span>
                                 <h4>Nos équipes</h4>
                             </div>
                         </div>
                         <div class="col-sm-5 col-12 offset-sm-1">
                             <div class="countup-box-2">
-                                <h3 class="countup">3800</h3><span> +</span>
-                                <h4>Clients satisfaits</h4>
+                                <h3 class="countup">500</h3><span></span>
+                                <h4>Montant en gestion et en portefeuille d’investissement (en million $)</h4>
                             </div>
                         </div>
                     </div>
@@ -249,7 +251,7 @@ and open the template in the editor.
                 <div class="col-md-6 col-sm-6 col-12">
                     <div class="pr-45-md">
                         <div class="section-heading text-left">
-                            <h3 class="semi-bold font-size-30">Nos références clients</h3>
+                            <h3 class="semi-bold font-size-30">nos références partenaires</h3>
                             <div class="section-heading-line line-thin"></div>
                         </div>
                         <div class="text-content-big mt-25">
@@ -259,12 +261,12 @@ and open the template in the editor.
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
                     <div class="clients-grid">
-                        <img src="http://via.placeholder.com/165x80" alt="client-image">
-                        <img src="http://via.placeholder.com/165x80" alt="client-image">
-                        <img src="http://via.placeholder.com/165x80" alt="client-image">
-                        <img src="http://via.placeholder.com/165x80" alt="client-image">
-                        <img src="http://via.placeholder.com/165x80" alt="client-image">
-                        <img src="http://via.placeholder.com/165x80" alt="client-image">
+                        <img src="img_skg/NY STOCK EXCHANGE.jpg" alt="client-image">
+                        <img src="img_skg/OCBC.jpg" alt="client-image">
+                        <img src="img_skg/LOGO HSBC.png" alt="client-image">
+                        <img src="img_skg/BOA.png" alt="client-image">
+                        <img src="img_skg/EQUITY BANK LOGO.png" alt="client-image">
+                        <img src="img_skg/LLOYDS.png" alt="client-image">
                     </div>
                 </div>
             </div>
@@ -286,7 +288,7 @@ and open the template in the editor.
                         <img src="img_skg/rsz_bourse-debutant.jpg" alt="img">
                         <div class="service-block-2-content">
                             <h4><a href="#">Introduction en bourse</a></h4>
-                            <a href="#" class="service-block-2-btn">Voir plus <i class="fa fa-arrow-right primary-color"></i></a>
+                              <!--<a href="#" class="service-block-2-btn">Voir plus <i class="fa fa-arrow-right primary-color"></i></a>-->
                         </div>
                     </div>
                 </div>
@@ -295,7 +297,7 @@ and open the template in the editor.
                         <img src="img_skg/rsz_top-rich-1450850278209.jpg" alt="img">
                         <div class="service-block-2-content">
                             <h4><a href="#">Levées de fonds</a></h4>
-                            <a href="#" class="service-block-2-btn">Voir plus<i class="fa fa-arrow-right primary-color"></i></a>
+                             <!-- <a href="#" class="service-block-2-btn">Voir plus<i class="fa fa-arrow-right primary-color"></i></a>-->
                         </div>
                     </div>
                 </div>
@@ -304,7 +306,7 @@ and open the template in the editor.
                         <img src="img_skg/rsz_1bourse.jpg" alt="img">
                         <div class="service-block-2-content">
                             <h4><a href="#">Actions et obligations</a></h4>
-                            <a href="#" class="service-block-2-btn">Voir plus<i class="fa fa-arrow-right primary-color"></i></a>
+                             <!-- <a href="#" class="service-block-2-btn">Voir plus<i class="fa fa-arrow-right primary-color"></i></a>-->
                         </div>
                     </div>
                 </div>
@@ -316,29 +318,33 @@ and open the template in the editor.
             <div class="container">
                 <div class="row">
                     <div class="col-md-5 col-sm-5 col-12">
-                        <div class="section-heading">
-                            <small class="uppercase">Who we are</small>
-                            <h4 class="semi-bold">We're knowledgeable about making benefits higher</h4>
-                        </div>
+                       
                         <div class="text-content mt-15">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa</p>
+                            <p>L’Afrique est la région économique qui a le plus fort taux de croissance au monde. Comptant plus de 1,3 milliard 
+                                d’habitants en 2017, le marché de consommation du continent devrait avoisiner 2,5 milliards en 2050. Mieux encore, 
+                                l'Afrique est le continent dont la population compte le plus fort taux de populations jeunes de moins de 30 ans 
+                                constituant ainsi une main d’œuvre hautement qualifiée. L'Afrique est donc le marché idéal pour réaliser 
+                                des investissements à très fort taux de rentabilité.Chez SK Global Investment Group, notre vision du financement 
+                                du développement de l’Afrique se fixe quatre objectifs principaux :</p>
                         </div>
                         <ul class="primary-list mt-20">
-                            <li><i class="fas fa-check-circle"></i>Solving problems, building brands.</li>
-                            <li><i class="fas fa-check-circle"></i>Building brands with purpose and passion.</li>
-                            <li><i class="fas fa-check-circle"></i>Connecting customers to your brand.</li>
+                            <li><i class="fas fa-check-circle"></i>Lutter contre la pauvreté en améliorant de façon significative les conditions de vie des populations à revenus modérés</li>
+                            <li><i class="fas fa-check-circle"></i>Soutenir l'entrepreneuriat privé des jeunes africains</li>
+                            <li><i class="fas fa-check-circle"></i>Promouvoir la croissance économique à travers la création des emplois-jeunes par les jeunes</li>
+                            <li><i class="fas fa-check-circle"></i>Améliorer la gouvernance des états africains par la transformation numérique du secteur public</li>
                         </ul>
-                        <a href="#" class="button-md button-primary mt-30">Read More</a>
+                        
+                        <a href="page ceo.php" class="button-md button-primary mt-30">Lire la suite</a>
                     </div>
                     <div class="col-md-6 col-sm-6 col-12 offset-md-1">
-                        <img src="http://via.placeholder.com/570x400" class="position-relative extra-rounded-border shadow-primary z-index-9 mt-30-xs" alt="img">
+                        <img src="img_skg/facebook_1569512269227.jpg" class="position-relative extra-rounded-border shadow-primary z-index-9 mt-30-xs" alt="img">
                     </div>
                 </div>
             </div>
         </div>
-
+    
     <!--Testmonials START-->
-    <div class="section-block-grey background-center jarallax" data-jarallax data-speed="0.6" style="background-image: url('img_skg/bg_white.jpg')">
+    <!-- <div class="section-block-grey background-center jarallax" data-jarallax data-speed="0.6" style="background-image: url('img_skg/bg_white.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12 col-12 offset-md-6">
@@ -369,7 +375,8 @@ and open the template in the editor.
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
+   
     <!--Testmonials END-->
 
     <!--Contact START-->

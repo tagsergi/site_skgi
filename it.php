@@ -38,7 +38,7 @@
         ?> 
         <div class="breadcrumb-section-it jarallax pixels-bg" data-jarallax data-speed="0.6">
             <div class="container text-center">
-                <h1 style="color: white">CONSEILS IT</h1>
+                <h1 style="color: white">COMUNICATION ET SERVICES IT</h1>
             </div>
         </div>
         <!--Breadcrumb END-->
@@ -54,17 +54,37 @@
                         <div class="pl-30-md">
                             <div class="section-heading mt-15">
                                 <div class="icon-holder-md">
-                                    <img src="./img_skg/Afique_digital.jpeg" height="100" width="100">
+                                    <img src="./img_skg/ADFRIQUE DIGITAL.jpg" height="100" width="100">
                                 </div>
                                 <h4 class="semi-bold mt-30" style="color: #007bff">Afrique Digital</h4>
-                                <p>Afrique Digital est une société de services experte dans le domaine des nouvelles technologies et de l’informatique
-                                    Elle bénéficie non seulement d’une expérience avérée en raison des compétences expertes de ses équipes mais également de technologies de pointe qui associent une sécurité renforcée à l’efficacité de ses outils.
-                                    L’expérience en développement de logiciels embarqués pour des entreprises et des structures étatiques lui confère une agilité dans ce secteur de digitalisation et de conseil IT.</p>
+                                <p>Division du groupe SK Global en charge du digital, experte dans le domaine des nouvelles technologies 
+                                    et de l’informatique. Elle bénéficie non seulement d’une expérience avérée en raison des compétences 
+                                    expertes de ses équipes mais également de technologies de pointe qui associent une sécurité renforcée 
+                                    à l’efficacité de ses outils. L’expérience en développement de logiciels embarqués pour des entreprises 
+                                    et des structures étatiques lui confère une agilité dans ce secteur de digitalisation, de conseil IT et 
+                                    de projet d’identification et traitement de bases de données.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-
+  <div class="row reverse-xs mt-70">
+            <div class="col-md-5 col-sm-5 col-12">
+                <div class="pr-30-md">
+                    <div class="section-heading mt-15">
+                        <div class="icon-holder-md">
+                            <img src="./img_skg/PRO PNG.png" height="100" width="100">
+                        </div>
+                        <h4 class="semi-bold mt-30" style="color: #007bff">PROD’COM (Marque de Oria Lux)</h4>
+                        <p>Société de conseils en communication et évènementiels installée en France.</p>
+                        <p><i style="color: #222;font-size: 16px;font-weight: 600;">Adresse :</i> 142 avenue de Stalingrad, 92700 Colombes</p>
+                        <i style="color: #222;font-size: 16px;font-weight: 600;">Contact : </i>(+33) 1 79 00 00 00
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-7 col-sm-7 col-12">
+                <img src="./img_skg/event1.jpg" class="rounded-border" alt="">
+            </div>
+        </div>
             </div>
         </div>
         <!--Services Section END-->

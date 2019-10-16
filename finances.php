@@ -59,7 +59,11 @@
                             <img src="./img_skg/sk_usa.jpeg" height="100" width="100">
                         </div>
                         <h4 class="semi-bold mt-30" style="color: #007bff">SK Global USA</h4>
-                        <p>Implantée depuis des années aux USA, SK Global USA permet un investissement dans des actions en suivant les indices boursiers.</p>
+                        <p>Filiale implantée depuis des années aux USA, SK Global USA intervient particulièrement dans trois grands 
+                            secteurs que sont les marchés financiers, (le New York Stock Exchange), dans le secteur de l’immobilier et le conseil et
+                            l’accompagnement sur les marchés émergeants et notamment l’Afrique. </p>
+                        <p><i style="color: #222;font-size: 16px;font-weight: 600;">Adresse :</i> 880 Marie a HWY suite 630-360 Roswell, 6A 30075</P>
+                        <i style="color: #222;font-size: 16px;font-weight: 600;">Contact : </i>+1 770 807 2397
                     </div>
                 </div>
             </div>
@@ -73,7 +77,10 @@
                             <img src="./img_skg/JYL NEW 1.jpg" height="100" width="100">
                         </div>
                         <h4 class="semi-bold mt-30" style="color: #007bff">JYL</h4>
-                        <p>Facilite les investissements dans des titres, des obligations, des actions et de profiter des bénéfices.</p>
+                        <p>Implanté en Asie et spécialisé dans la levée de fonds sur les marchés financiers pour tous types de projets, 
+                            JYL constitue un pont entre les capitaux asiatiques et les projets porteurs sur les marchés émergeants.</p>
+                        <p><i style="color: #222;font-size: 16px;font-weight: 600;">Adresse :</i> 604 tower A new trade Plaza 6 On Ping street, Shain, N.T Hong Kong</p>
+                        <i style="color: #222;font-size: 16px;font-weight: 600;">Contact : </i>+852 2862 9000
                     </div>
                 </div>
             </div>
@@ -95,7 +102,9 @@
                             <img src="./img_skg/PC NEW1.jpg" height="100" width="100">
                         </div>
                         <h4 class="semi-bold mt-30" style="color: #007bff">PRINCE CAPITAL</h4>
-                        <p>La Société Prince Capital est une société de droit Anglais qui a pour objet le conseil en investissements financiers. Elle est intervenue jusque-là en Asie et en Europe.</p>
+                        <p>La Société Prince Capital de droit anglais, présente sur la plateforme financière de Londres est spécialisée 
+                            dans les placements financiers et plus précisément dans le Forex. Elle est un véritable levier pour tous les 
+                            projets de capitalisation, d’introduction boursière et d’investissement dans les titres et obligations.   </p>
                     </div>
                 </div>
             </div>

@@ -95,7 +95,7 @@
                             <div class="features-box-content">
                                 <h3>Gouvernance</h3>
                                 <p style="text-align: justify">Notre stratégie de développement repose essentiellement sur les compétences de
-                                    nos ressources humaines. (Voir Mme Keke pour organigramme)</p>
+                                    nos ressources humaines.</p>
                             </div>
                         </div>
                     </div>
@@ -121,30 +121,23 @@
         <!-- Testmonial-item END -->
 
         <!-- Parallax Section START -->
-        <div class="section-block-parallax jarallax primary-overlay-80" data-jarallax data-speed="0.6" style="background-image: url('http://via.placeholder.com/1500x330');">
-            <div class="container">
-                <div class="large-heading text-center">
-                    <small class="semi-bold white-color">Helping clients win and keep customers - profitably!</small>
-                    <h4 class="semi-bold white-color">Theory that is relative to your marketing needs <br>Knowing more about business, consumers and society</h4>
-                </div>
-            </div>
-        </div>
+      
         <!-- Parallax Section END -->
 
         <div class="section-block grey-bg background-shape-3">
             <div class="container">
                 <div class="section-heading text-center">
-                    <h3 class="semi-bold font-size-33">Une équipe d'expert .</h3>
+                    <h3 class="semi-bold font-size-33">Une équipe compétente et dynamique</h3>
                     <div class="section-heading-line line-thin"></div>
-                    <p>un personnel multidisciplinaire jeune, expérimenté, issu de différentes nationalités et extrêmement qualifié, formé dans les meilleures écoles en Amérique, en Europe en Asie et en Afrique</p>
+                    <p>un personnel multidisciplinaire, expérimenté, issu de différentes nationalités et extrêmement qualifié.</p>
                 </div>
                 <div class="owl-carousel owl-theme testmonial-carousel-4 mt-20">
                     <div class="testmonial-item-5">
                         <div class="team-box-2">
-                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <img src="./img_skg/prince.png" alt="">
                             <div class="team-box-2-info">
                                 <h4>Prince DALLI</h4>
-                                <h6>Directeurs des marchés financiers</h6>
+                                <h6>Directeur des marchés financiers</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -159,7 +152,7 @@
                             <img src="./img_skg/Charlotte Kalala Responsable RSE.jpg" alt="">
                             <div class="team-box-2-info">
                                 <h4>Charlotte KALALA</h4>
-                                <h6>Responsable RSE</h6>
+                                <h6>Responsable RSE et Evènementiels</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -171,7 +164,7 @@
                     </div>
                     <div class="testmonial-item-5">
                         <div class="team-box-2">
-                            <img src="./img_skg/rsz_1img_0550.jpg"alt="">
+                            <img src="./img_skg/florence.png"alt="">
                             <div class="team-box-2-info">
                                 <h4>Florence LEBOEHI</h4>
                                 <h6>Directrice Business Development</h6>
@@ -186,10 +179,10 @@
                     </div>
                     <div class="testmonial-item-5">
                         <div class="team-box-2">
-                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <img src="./img_skg/Meledje2.png" alt="">
                             <div class="team-box-2-info">
-                                <h4>Prince DALLI</h4>
-                                <h6>Directeurs des marchés financiers</h6>
+                                <h4>Aka MELEDJE</h4>
+                                <h6>Responsable Juridique</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -201,10 +194,10 @@
                     </div>
                     <div class="testmonial-item-5">
                         <div class="team-box-2">
-                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <img src="./img_skg/Fabrice.png" alt="">
                             <div class="team-box-2-info">
-                                <h4>Prince DALLI</h4>
-                                <h6>Directeurs des marchés financiers</h6>
+                                <h4>Fabrice LAGO</h4>
+                                <h6>Responsable Communication</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -216,10 +209,10 @@
                     </div>
                     <div class="testmonial-item-5">
                         <div class="team-box-2">
-                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <img src="./img_skg/Bertrand.png" alt="">
                             <div class="team-box-2-info">
-                                <h4>Prince DALLI</h4>
-                                <h6>Directeurs des marchés financiers</h6>
+                                <h4>Bertrand KOUASSI</h4>
+                                <h6>Directeur Général SOMEC</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -231,10 +224,10 @@
                     </div>
                     <div class="testmonial-item-5">
                         <div class="team-box-2">
-                            <img src="./img_skg/Prince Dalli Directeur des Marchés financiers.jpg" alt="">
+                            <img src="./img_skg/Pascal Balem.JPG" alt="">
                             <div class="team-box-2-info">
-                                <h4>Prince DALLI</h4>
-                                <h6>Directeurs des marchés financiers</h6>
+                                <h4>Pascale BALEM</h4>
+                                <h6>Responsable Recherche et Développement</h6>
                                 <ul class="team-box-2-icon">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -328,27 +321,30 @@
             <div class="container">
                 <div class="owl-carousel owl-theme clients clients-carousel">
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/BOA.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/EQUITY BANK LOGO.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/LLOYDS.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/LOGO HSBC.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/WELLS FARGO.png" alt="partner-image">
                     </div>
 
                     <div class="item">
-                        <img src="http://via.placeholder.com/135x65" alt="partner-image">
+                        <img src="img_skg/OCBC.jpg" alt="partner-image">
+                    </div>
+                    <div class="item">
+                        <img src="img_skg/NY STOCK EXCHANGE.jpg" alt="partner-image">
                     </div>
                 </div>
             </div>
